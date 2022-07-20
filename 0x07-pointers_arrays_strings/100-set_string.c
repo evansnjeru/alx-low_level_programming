@@ -4,9 +4,9 @@
 
 
 /**
- * set_string - sets value of pointer to char 
- * @s: pointer 
- * @size: pointer 
+ * set_string - sets value of pointer to char
+ * @s: pointer
+ * @to: pointer
  *
  * Return: char pointer
  */
